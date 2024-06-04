@@ -10,6 +10,10 @@ TO ENSURE THE QUALITY OF SOURCE CODE
 * THE CI (CONTINUOUS INTEGRATION) SCRIPT TO APPLY CI PROCESS
 * .... 
 
-### CONNECT ME VIA: vuthanhduc181203@gmail.com
+### Screenshots
+![Source code and Unit Test](https://github.com/DevvAlain/math-util-1080/blob/master/screenshots/SourceCodeANd.jpg)
 
-#### &#169; 2024 Dylan
+
+#### CONNECT ME VIA: vuthanhduc181203@gmail.com
+
+##### &#169; 2024 Dylan
