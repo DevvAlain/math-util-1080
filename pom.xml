@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.nguyenchoido</groupId>
     <artifactId>math-util-1080</artifactId>
-    <version>1.0</version>
+    <version>7.6.2024</version>
     <packaging>jar</packaging>
     
     <properties>
