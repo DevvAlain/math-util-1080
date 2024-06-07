@@ -1,3 +1,8 @@
+[![Math Utility Maven Project (CI applied)](https://github.com/DevvAlain/math-util-1080/actions/workflows/ci_script.yml/badge.svg)](https://github.com/DevvAlain/math-util-1080/actions/workflows/ci_script.yml)
+
+
+
+
 # WELCOME TO MATH UTILITY REPOSITORY ver.7.6.2024
 
 ## U WILL FIND IN THIS REPO THE FOLLOWING STUFF
