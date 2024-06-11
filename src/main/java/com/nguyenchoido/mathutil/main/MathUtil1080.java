@@ -17,6 +17,11 @@ public class MathUtil1080 {
         
     }
     
+    //modify 123
+    public static void printMsg() {
+        
+    }
+    
     //psvm để tạo nhanh hàm main
     public static void main(String[] args) {
         //Cách 2: Test hàm = cách popup
