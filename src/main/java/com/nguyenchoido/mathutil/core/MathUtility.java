@@ -21,6 +21,11 @@ package com.nguyenchoido.mathutil.core;
  * @author trand
  */
 public class MathUtility {
+    
+    //modify code in local, later upload to server
+    public static void printMsg() {
+        
+    }
 
     //Hàm tính n! = 1.2.3.4...n
     //Hàm là static vì tính xong trả về, không nhớ nhung gì cả
@@ -42,6 +47,11 @@ public class MathUtility {
             product *= i; //thuật toán nhân dồn, con heo đất - ốc bu nhồi thịt
         }
 
-        return product;
+        return n * getFactorial(n - 1 );
     }
+    
+    //NẾU TA XÀI CI TRONG PRJ
+    
+    //VIỆC TEST LẠI HÀM ĐÃ TỪNG TEST => REGRESSION TESTING
+    //                                     => KIỂM THỬ HỒI QUY
 }
