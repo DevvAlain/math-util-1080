@@ -12,6 +12,11 @@ import javax.swing.JOptionPane;
  */
 public class MathUtil1080 {
 
+    //MODIFY CODE DIRECLY IN SV - TO SIMULATE 
+    public void SayHelloFromServer() {
+        
+    }
+    
     //psvm để tạo nhanh hàm main
     public static void main(String[] args) {
         //Cách 2: Test hàm = cách popup
